@@ -1,3 +1,8 @@
+# Designed to be run with Programs, Data and Plots subfolders under a Seismic folder
+# Copy this file into the Programs folder
+# Copy ShakeNetwork2019.csv into the Data folder
+# Developed by Mark Vanstone using Thonny, a free Python IDE designed for new programmers
+#
 from datetime import datetime
 from obspy import UTCDateTime, Stream
 from obspy.geodetics import gps2dist_azimuth
@@ -14,22 +19,23 @@ eqlon = -66.8088
 eqlatlon=(eqlat, eqlon)
 eqtime = "2020-01-11 12:54:45"
 # Plot parameters
-plots=['section', 'normal', 'angle'] # choose normal or section, by distance or angle
+plots=['normal', 'section', 'distance'] # choose normal or section, section by distance or angle, also see sortkey below
 sectiondx=1e5 # distance between tick marks on x-axis of distance section
 angledx=2 # angle between tick marks on x-axis of section by angle
-sortkey = 0 # 0 = sort by distance, 2 = sort by bearing
+sortkey = 0 # 0 = sort by distance from epicentre, 2 = sort by azimuth, which is effective for the normal plot
 # Vancouver Island excludes - noisy or geographically misplaced recorders
 exclude=['RB293','R93B1','R7813','R7783','R5A78','RDCBA','R1E5E','R923A','RE650','R37BE','RB0B5','R3D81','R6392','RCD29','RCE32','R6324','R8473','R4FF5','R7C93','R7143','R21B0','REFFB','RCC6E','R1B4E','R7F9F','RA877','R976A','R13D2','R08CF','R17FC','R3F1B','R5C4C','R95B0','RE859','RA78B','R3F39','REB59','RF566','RF212','R78B7','R5768','R550B','R23FF', 'RC98E', 'R89A5', 'RDE9B','RDE9D', 'R6EE9', 'R49FD', 'REEAA', 'RA89C', 'RF71F', 'RD2A1', 'R0318', 'R0F1A', 'R79EC', 'R87F8','R70B6', 'R7363', 'RFC18','RABDC']
 # peru excludes - noisy or geographically misplaced recorders
 exclude+=['R440A','R8282','R16F7','R74D9','R1108','RA13A', 'R39DB']
-maxdist = 950000 # maximum distance in metres, ignore any seismometers beyond this distance
-step = 10000 # step in metres between seismometers
+maxdist = 2000000 # maximum distance in metres, ignore any seismometers beyond this distance
+step = 15000 # step in metres between seismometers
 # selecting by bearing allows a narrow window to be chosen by compass bearing
-minbearing = 0
+minbearing = 0 # this mechanism needs recoding, it does not work for degrees on either side of 360
 maxbearing = 360
 bearingstep = 2.5 # allows a spread of data in the normal plot
 duration = 900 # duration of the record
 timeoffset = 0 # time added before start of general plot
+networkdata = "../Data/ShakeNetwork2019.csv"
 
 def parse(string):
     out = [""]
@@ -44,10 +50,10 @@ def parse(string):
     return out
 
 # Function to read a file using the context manager
-def readFile():
+def readFile(networkdata):
     # Read list of lines
     out = [] # list to save lines
-    with open ("../Data/ShakeNetwork2019.csv", "r") as rd:
+    with open (networkdata, "r") as rd:
         # Read lines in loop
         for line in rd:
             # All lines (besides the last) will include  newline, so strip it
@@ -91,8 +97,8 @@ def bubblesort(ind, dist, col):
                 ind[j+1] = temp
     return ind
 
-# read station list from file
-allStations = readFile()
+# read station list from network data file
+allStations = readFile(networkdata)
 # remove duplicates and keep the latest in the list. Duplicates occur when stations have been moved. 
 cutStations = []
 for x in range(1, len(allStations)):
@@ -135,7 +141,7 @@ readit = False
 dist = 0
 bearing = minbearing
 for x in range (len(seislist)):
-    print(x, distances[x][2], bearing)
+    print(x, int(distances[x][0]/1000), "km", round(distances[x][2],1), "degrees, looking for greater than", round(bearing, 1), "degrees")
     if (sortkey == 0 and distances[x][0] >= dist) or (sortkey == 2 and distances[x][2] >= bearing):        
         # read in Raspberry Shake
         client=fdsn.Client(base_url='https://fdsnws.raspberryshakedata.com/')
@@ -211,16 +217,19 @@ for y in range(len(seismometers)):
     waveform[y].stats["coordinates"] = {} # add the coordinates to the dictionary, needed for the section plot
     waveform[y].stats["coordinates"]["latitude"] = latitudes[seismometers[y]]
     waveform[y].stats["coordinates"]["longitude"] = longitudes[seismometers[y]]
-    if 'angle' in plots:
-        result = irisclient.distaz(stalat=latitudes[seismometers[y]], stalon=longitudes[seismometers[y]], evtlat=eqlat, evtlon=eqlon)['distance']*1.0
-    else:
-        result = distances[seismometers[y]][0]
-    waveform[y].stats["distance"] = str(round(result,3))
+    if 'angle' in plots: #put central angle in the distance
+        result = round(irisclient.distaz(stalat=latitudes[seismometers[y]], stalon=longitudes[seismometers[y]], evtlat=eqlat, evtlon=eqlon)['distance']*1.0,1)
+    else: # put distance in km in the distance attribute
+        result = int(distances[seismometers[y]][0]/1000)
+    waveform[y].stats["distance"] = str(result)
     # Set the abbreviated name of the location in the network field for the plot title
     waveform[y].stats.network = locations[seismometers[y]]
     waveform[y].stats.station = ""
     waveform[y].stats.location = "" #str(round(distances[seismometers[y]][0]/1000,1)) + "km"
-    waveform[y].stats.channel = str(round(distances[seismometers[y]][2],1)) # Azimuth B->A
+    if 'angle' in plots:
+        waveform[y].stats.channel = str(round(distances[seismometers[y]][2],1)) # Azimuth B->A
+    else:
+        waveform[y].stats.channel = str(int(distances[seismometers[y]][0]/1000)) # Distance in km
     print("\n", waveform[y].stats, "\n")
 
 # very big data sets may need to be decimated, otherwise the plotting routine crashes
@@ -229,16 +238,16 @@ for y in range(len(seismometers)):
 if 'normal' in plots:
     fig1 = plt.figure(figsize=(18, 13))
     #plt.title('Plot for epicentre near Taunton and rupture at UTC 22:49:19.5', fontsize=12, y=1.07)
-    if 'distance' in plots:
+    if sortkey == 0:
         plt.title('Plot for '+eqname+' sorted by distance. '+eqtime+" lat:"+str(eqlat)+" lon:"+str(eqlon), fontsize=12, y=1.07)
         plt.xticks([])
         plt.yticks([])
-        waveform.plot(size=(1024,750),type='normal', automerge=False, equal_scale=False, fig=fig1, starttime=starttime-timeoffset, endtime=endtime-timeoffset, outfile='../Plots/' + nospaces(eqname) + 'normal-ByDistance.png', fontsize=10)
-    elif 'angle' in plots:
+        waveform.plot(size=(1024,750),type='normal', automerge=False, equal_scale=False, fig=fig1, starttime=starttime-timeoffset, endtime=endtime-timeoffset, outfile='../Plots/' + nospaces(eqname) + '-normal-ByDistance.png', fontsize=10)
+    elif sortkey == 2:
         plt.title('Plot for '+eqname+' sorted by azimuth. '+eqtime+" lat:"+str(eqlat)+" lon:"+str(eqlon), fontsize=12, y=1.07)
         plt.xticks([])
         plt.yticks([])
-        waveform.plot(size=(1024,750),type='normal', automerge=False, equal_scale=False, fig=fig1, starttime=starttime-timeoffset, endtime=endtime-timeoffset, outfile='../Plots/' + nospaces(eqname) + 'normal-ByAzimuth.png', fontsize=10)
+        waveform.plot(size=(1024,750),type='normal', automerge=False, equal_scale=False, fig=fig1, starttime=starttime-timeoffset, endtime=endtime-timeoffset, outfile='../Plots/' + nospaces(eqname) + '-normal-ByAzimuth.png', fontsize=10)
 
 # Create the section plot..
 # Resample data if necessary
