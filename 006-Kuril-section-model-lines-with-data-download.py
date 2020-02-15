@@ -250,7 +250,7 @@ if len(waveform) == len(loaded_stations):
     plt.text(0, DURATION *1.05, filtertext1)
     plt.text(0, DURATION *1.07, filtertext2)
 
-# Print the coloursed phases over the seismic section
+# Print the coloured phases over the seismic section
     textlist = [] # list of text on plot, to avoid over-writing
     for j, color in enumerate(COLORS):
         phase = PHASES[j]
