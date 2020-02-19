@@ -189,9 +189,10 @@ for station in seismometers:
         # locate the seismometer and add this to the station record
         try:
             location = geolocator.reverse(str(station[1]) + ", " + str(station[2]))
+            address_list = location.address.split(",")
         except:
             location = "Unknown"
-        address_list = location.address.split(",")
+            address_list = location
         if len(address_list) > 4:
             address = ",".join(address_list[-1*(len(address_list)-2):]).strip() # remove the two most specific parts
         else:
