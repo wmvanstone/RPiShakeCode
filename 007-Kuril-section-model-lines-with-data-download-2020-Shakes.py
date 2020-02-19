@@ -170,10 +170,10 @@ for station in seismometers:
                 st.detrend(type='demean')
                 if station[3] <= 90:
                     st.filter('bandpass', freqmin=F1, freqmax=F2)
-                    filtertext1 = "Bandpass Filter: freqmin="+str(F1)+", freqmax="+str(F2)+" to 90 degrees."
+                    filtertext1 = "Bandpass Filter: freqmin="+str(F1)+", freqmax="+str(F2)+" at up to 90 degrees."
                 else:
                     st.filter('bandpass', freqmin=F3, freqmax=F4)
-                    filtertext2 = "Bandpass Filter: freqmin="+str(F3)+", freqmax="+str(F4)+" to 90 degrees."
+                    filtertext2 = "Bandpass Filter: freqmin="+str(F3)+", freqmax="+str(F4)+" at greater than 90 degrees."
                 st.decimate(DECIMATION)
                 test = st.slice(START_TIME, END_TIME)
                 if len(test) > 0:
