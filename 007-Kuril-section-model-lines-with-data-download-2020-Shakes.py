@@ -155,6 +155,8 @@ waveform = Stream() # set up a blank stream variable
 dist = 0 # record of how far away the next seismometer is that we are looking for
 readit = False # flag to say that we have successfully read the data
 loaded_stations = [] # list of stations successfully loaded
+filtertext1 = ""
+filtertext2 = ""
 
 geolocator = Nominatim(user_agent="Raspberry Shake section plotter") # tool for getting place names
 for station in seismometers:
