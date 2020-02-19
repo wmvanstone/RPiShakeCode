@@ -254,7 +254,7 @@ if len(waveform) == len(loaded_stations):
         x=[]
         y=[]
         model = TauPyModel(model=MODEL)
-        for dist in range(0, 181, 1): # calculate and plot one point for each degree from 0-180
+        for dist in range(MIN_DIST, MAX_DIST+1, 1): # calculate and plot one point for each degree from 0-180
             arrivals = model.get_travel_times(source_depth_in_km=EVT_Z,distance_in_degree=dist, phase_list=[phase])
             printed = False
             for i in range(len(arrivals)):
