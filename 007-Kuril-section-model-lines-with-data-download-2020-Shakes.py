@@ -46,7 +46,7 @@ CHANNEL = 'EHZ'  # channel to grab data for (e.g. EHZ, SHZ, EHE, EHN)
 DURATION = 1400  # Length in seconds of data to plot after origin time
 MIN_DIST = 0 # minimum distance for a seismometer in degrees
 MAX_DIST = 180 # maximum distance in degrees
-STEP = 2.25 # step in degrees between seismometers
+STEP = 1 # step in degrees between seismometers
 ANGLE_DX = 10 # angle between tick marks on x-axis of section
 PHASES = ["P", "pP", "PP", "S", "Pdiff", "PKP", "PKIKP", "PcP", "ScP", "ScS", "PKiKP", "SKiKP",
             "SKP", "SKS"] # list of phases for which to compute theoretical times
@@ -192,13 +192,12 @@ for station in seismometers:
         try:
             location = geolocator.reverse(str(station[1]) + ", " + str(station[2]))
             address_list = location.address.split(",")
+            if len(address_list) > 4:
+                address = ",".join(address_list[-1*(len(address_list)-2):]).strip() # remove the two most specific parts
+            else:
+                address = ",".join(address_list[:]).strip() # use the whole address
         except:
-            location = "Unknown"
-            address_list = location
-        if len(address_list) > 4:
-            address = ",".join(address_list[-1*(len(address_list)-2):]).strip() # remove the two most specific parts
-        else:
-            address = ",".join(address_list[:]).strip() # use the whole address
+            address = "Unknown"
         station.append(address)
         loaded_stations.append(station)
         print(station[0], "Lat:", station[1], "Lon:", station[2], "Dist:", station[3], "degrees, Address:", station[4])
