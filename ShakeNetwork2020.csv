@@ -53,6 +53,7 @@ R03B4,Raspberry Shake Citizen Science Station,52.92792793,-2.570515085,RASPISHAK
 R03D1,Raspberry Shake Citizen Science Station,47.62162162,-122.3491285,RASPISHAKE
 R03D7,Raspberry Shake Citizen Science Station,29.88288288,-97.93586527,RASPISHAKE
 R03EA,Raspberry Shake Citizen Science Station,47.34234234,8.589634082,RASPISHAKE
+R040A,Raspberry Shake Citizen Science Station,48.24324324,16.34321735,RASPISHAKE
 R0428,Raspberry Shake Citizen Science Station,39.73873874,-105.1722777,RASPISHAKE
 R0457,Raspberry Shake Citizen Science Station,-0.18018018,-78.44184549,RASPISHAKE
 R045C,Raspberry Shake Citizen Science Station,37.52252252,-122.2606921,RASPISHAKE
@@ -83,6 +84,7 @@ R070D,Raspberry Shake Citizen Science Station,36.57657658,-121.9058852,RASPISHAK
 R073F,Raspberry Shake Citizen Science Station,19.30630631,-99.16727614,RASPISHAKE
 R076D,Raspberry Shake Citizen Science Station,34.07207207,134.5553087,RASPISHAKE
 R0786,Raspberry Shake Citizen Science Station,-4.243243243,152.1829426,RASPISHAKE
+R0788,Raspberry Shake Citizen Science Station,-41.30630631,174.7580409,RASPISHAKE
 R07EB,Raspberry Shake Citizen Science Station,38.87387387,-77.2746976,RASPISHAKE
 R0808,Raspberry Shake Citizen Science Station,33.72972973,-117.4295489,RASPISHAKE
 R0825,Raspberry Shake Citizen Science Station,47.37837838,-122.1848506,RASPISHAKE
@@ -103,6 +105,7 @@ R09EF,Raspberry Shake Citizen Science Station,47.69369369,-122.1897029,RASPISHAK
 R09F7,Raspberry Shake Citizen Science Station,35.22522523,-90.77883925,RASPISHAKE
 R0A2D,Raspberry Shake Citizen Science Station,47.9009009,1.881434238,RASPISHAKE
 R0A45,Raspberry Shake Citizen Science Station,41.45945946,2.079685133,RASPISHAKE
+R0A52,Raspberry Shake Citizen Science Station,40.82882883,74.10485715,RASPISHAKE
 R0A7D,Raspberry Shake Citizen Science Station,-12.08108108,-77.04053041,RASPISHAKE
 R0A81,Raspberry Shake Citizen Science Station,31.03603604,121.4337755,RASPISHAKE
 R0A90,Raspberry Shake Citizen Science Station,47.73873874,-122.0473133,RASPISHAKE
@@ -173,6 +176,7 @@ R10A1,Raspberry Shake Citizen Science Station,48.14414414,12.28706644,RASPISHAKE
 R10A9,Raspberry Shake Citizen Science Station,40.43243243,-79.98954998,RASPISHAKE
 R10DB,Raspberry Shake Citizen Science Station,48.22522523,16.35086441,RASPISHAKE
 R10DC,Raspberry Shake Citizen Science Station,42.27027027,-83.73515475,RASPISHAKE
+R10F9,Raspberry Shake Citizen Science Station,12.13513514,-86.27250741,RASPISHAKE
 R1108,Raspberry Shake Citizen Science Station,-33.42342342,-70.60538723,RASPISHAKE
 R1109,Raspberry Shake Citizen Science Station,39.1981982,-77.1944812,RASPISHAKE
 R1132,Raspberry Shake Citizen Science Station,37.3963964,-122.1870867,RASPISHAKE
@@ -187,6 +191,7 @@ R12E0,Raspberry Shake Citizen Science Station,48.63963964,1.813394637,RASPISHAKE
 R12EB,Raspberry Shake Citizen Science Station,43.26126126,-2.932063036,RASPISHAKE
 R1309,Raspberry Shake Citizen Science Station,20.7027027,-105.2182944,RASPISHAKE
 R1355,Raspberry Shake Citizen Science Station,37.97297297,-121.3103538,RASPISHAKE
+R1388,Raspberry Shake Citizen Science Station,39.65765766,20.84236023,RASPISHAKE
 R1396,Raspberry Shake Citizen Science Station,41.48648649,2.260995055,RASPISHAKE
 R13BB,Raspberry Shake Citizen Science Station,42.28828829,-72.21317056,RASPISHAKE
 R13D2,Raspberry Shake Citizen Science Station,19.27027027,-81.30402064,RASPISHAKE
@@ -211,6 +216,7 @@ R1650,Raspberry Shake Citizen Science Station,44.91891892,-93.48433614,RASPISHAK
 R167F,Raspberry Shake Citizen Science Station,43.07207207,-72.02054751,RASPISHAKE
 R168B,Raspberry Shake Citizen Science Station,33.78378378,-118.3625241,RASPISHAKE
 R16B3,Raspberry Shake Citizen Science Station,41.64864865,13.09496827,RASPISHAKE
+R16CA,Raspberry Shake Citizen Science Station,48.67567568,7.65421746,RASPISHAKE
 R16D8,Raspberry Shake Citizen Science Station,43.6036036,7.042617647,RASPISHAKE
 R16DA,Raspberry Shake Citizen Science Station,48.48648649,-123.3150628,RASPISHAKE
 R16F7,Raspberry Shake Citizen Science Station,38.08108108,-122.1422797,RASPISHAKE
@@ -228,10 +234,13 @@ R17FC,Raspberry Shake Citizen Science Station,25.88288288,-80.36355577,RASPISHAK
 R17FF,Raspberry Shake Citizen Science Station,9.342342342,-82.19920212,RASPISHAKE
 R1822,Raspberry Shake Citizen Science Station,45.93693694,13.04590345,RASPISHAKE
 R185E,Raspberry Shake Citizen Science Station,52.46846847,-1.893107401,RASPISHAKE
+R1869,Raspberry Shake Citizen Science Station,48.62162162,7.782255795,RASPISHAKE
 R187C,Raspberry Shake Citizen Science Station,52.33333333,12.97431839,RASPISHAKE
+R1885,Raspberry Shake Citizen Science Station,42.7027027,-70.97829305,RASPISHAKE
 R1897,Raspberry Shake Citizen Science Station,35.21621622,-97.398203,RASPISHAKE
 R18CE,Raspberry Shake Citizen Science Station,32.45945946,-84.9900118,RASPISHAKE
 R18E6,Raspberry Shake Citizen Science Station,52.64864865,-0.653455495,RASPISHAKE
+R18EB,Raspberry Shake Citizen Science Station,48.45945946,-123.305742,RASPISHAKE
 R1906,Raspberry Shake Citizen Science Station,48.83783784,13.68773587,RASPISHAKE
 R1923,Raspberry Shake Citizen Science Station,45.78378378,3.061706042,RASPISHAKE
 R194D,Raspberry Shake Citizen Science Station,53.17117117,8.206086706,RASPISHAKE
@@ -256,6 +265,7 @@ R1B98,Raspberry Shake Citizen Science Station,51.95495495,6.1984911,RASPISHAKE
 R1B9F,Raspberry Shake Citizen Science Station,52.65765766,-0.594194527,RASPISHAKE
 R1BEF,Raspberry Shake Citizen Science Station,52.5045045,4.840104156,RASPISHAKE
 R1C03,Raspberry Shake Citizen Science Station,31.7027027,76.92366567,RASPISHAKE
+R1C04,Raspberry Shake Citizen Science Station,39.20720721,-76.65473136,RASPISHAKE
 R1C39,Raspberry Shake Citizen Science Station,32.85585586,-105.95336,RASPISHAKE
 R1C61,Raspberry Shake Citizen Science Station,43.63063063,-116.2139883,RASPISHAKE
 R1C88,Raspberry Shake Citizen Science Station,17.99099099,-92.94404856,RASPISHAKE
@@ -263,6 +273,7 @@ R1CA7,Raspberry Shake Citizen Science Station,47.57657658,-122.2322049,RASPISHAK
 R1CCE,Raspberry Shake Citizen Science Station,33.32432432,-111.9809587,RASPISHAKE
 R1CD9,Raspberry Shake Citizen Science Station,-7.612612613,110.4529035,RASPISHAKE
 R1D10,Raspberry Shake Citizen Science Station,40.68468468,-74.43205763,RASPISHAKE
+R1D2E,Raspberry Shake Citizen Science Station,55.6036036,13.01415757,RASPISHAKE
 R1D33,Raspberry Shake Citizen Science Station,37.12612613,-121.95413,RASPISHAKE
 R1D51,Raspberry Shake Citizen Science Station,45.54054054,-122.6245795,RASPISHAKE
 R1D8F,Raspberry Shake Citizen Science Station,14.08108108,-87.16081613,RASPISHAKE
@@ -291,6 +302,7 @@ R206B,Raspberry Shake Citizen Science Station,44.06306306,-121.2952191,RASPISHAK
 R2081,Raspberry Shake Citizen Science Station,38.28828829,-122.3292056,RASPISHAKE
 R208C,Raspberry Shake Citizen Science Station,37.52252252,-122.2901319,RASPISHAKE
 R208E,Raspberry Shake Citizen Science Station,42.26126126,-83.74369462,RASPISHAKE
+R20A1,Raspberry Shake Citizen Science Station,18.81081081,98.96293874,RASPISHAKE
 R20C9,Raspberry Shake Citizen Science Station,-9.468468468,147.1592908,RASPISHAKE
 R20CE,Raspberry Shake Citizen Science Station,27.64864865,85.29245656,RASPISHAKE
 R216B,Raspberry Shake Citizen Science Station,44.06306306,-121.2941945,RASPISHAKE
@@ -338,6 +350,7 @@ R2524,Raspberry Shake Citizen Science Station,45.84684685,9.38990163,RASPISHAKE
 R2547,Raspberry Shake Citizen Science Station,38.2972973,-122.4956481,RASPISHAKE
 R2556,Raspberry Shake Citizen Science Station,-33.81081081,151.0805096,RASPISHAKE
 R2586,Raspberry Shake Citizen Science Station,35.21621622,-97.39796298,RASPISHAKE
+R258C,Raspberry Shake Citizen Science Station,14.56756757,121.0177748,RASPISHAKE
 R25A7,Raspberry Shake Citizen Science Station,29.33333333,47.90017639,RASPISHAKE
 R25AC,Raspberry Shake Citizen Science Station,49.28828829,-123.1088037,RASPISHAKE
 R25D6,Raspberry Shake Citizen Science Station,59.64864865,9.647394417,RASPISHAKE
@@ -348,6 +361,7 @@ R2625,Raspberry Shake Citizen Science Station,38.8018018,-119.7998266,RASPISHAKE
 R266F,Raspberry Shake Citizen Science Station,47.36036036,8.033336378,RASPISHAKE
 R2683,Raspberry Shake Citizen Science Station,55.1981982,-162.7112862,RASPISHAKE
 R269B,Raspberry Shake Citizen Science Station,34.26126126,-98.23070104,RASPISHAKE
+R26B4,Raspberry Shake Citizen Science Station,44.43243243,26.15596327,RASPISHAKE
 R26C4,Raspberry Shake Citizen Science Station,49.69369369,-124.9617847,RASPISHAKE
 R26C6,Raspberry Shake Citizen Science Station,41.28828829,-81.75741679,RASPISHAKE
 R26D5,Raspberry Shake Citizen Science Station,50.85585586,4.153456356,RASPISHAKE
@@ -358,8 +372,10 @@ R2791,Raspberry Shake Citizen Science Station,33.4954955,-117.0849342,RASPISHAKE
 R2794,Raspberry Shake Citizen Science Station,43.81081081,10.67514532,RASPISHAKE
 R2798,Raspberry Shake Citizen Science Station,45.75675676,3.099155687,RASPISHAKE
 R27D9,Raspberry Shake Citizen Science Station,37.04504505,-122.013954,RASPISHAKE
+R27ED,Raspberry Shake Citizen Science Station,48.48648649,-123.3966204,RASPISHAKE
 R27F1,Raspberry Shake Citizen Science Station,8.810810811,-82.60648657,RASPISHAKE
 R2806,Raspberry Shake Citizen Science Station,42.72972973,-85.70409831,RASPISHAKE
+R2829,Raspberry Shake Citizen Science Station,34.03603604,-117.2592407,RASPISHAKE
 R2831,Raspberry Shake Citizen Science Station,36.2972973,-97.29576544,RASPISHAKE
 R2837,Raspberry Shake Citizen Science Station,-6.972972973,107.6256837,RASPISHAKE
 R2852,Raspberry Shake Citizen Science Station,50.11711712,8.710991022,RASPISHAKE
@@ -373,6 +389,7 @@ R2910,Raspberry Shake Citizen Science Station,52.74774775,4.777555329,RASPISHAKE
 R291C,Raspberry Shake Citizen Science Station,46.51351351,6.559373328,RASPISHAKE
 R2930,Raspberry Shake Citizen Science Station,20.56756757,-99.71854168,RASPISHAKE
 R2941,Raspberry Shake Citizen Science Station,34.13513514,-118.3544975,RASPISHAKE
+R2942,Raspberry Shake Citizen Science Station,32,34.76986598,RASPISHAKE
 R2964,Raspberry Shake Citizen Science Station,-33.79279279,150.740426,RASPISHAKE
 R2974,Raspberry Shake Citizen Science Station,18.45945946,-66.341458,RASPISHAKE
 R2989,Raspberry Shake Citizen Science Station,36.69369369,48.49596413,RASPISHAKE
@@ -398,6 +415,7 @@ R2B98,Raspberry Shake Citizen Science Station,51.11711712,-114.2146055,RASPISHAK
 R2BFC,Raspberry Shake Citizen Science Station,33.94594595,-117.6881514,RASPISHAKE
 R2C14,Raspberry Shake Citizen Science Station,48.79279279,9.081895668,RASPISHAKE
 R2C49,Raspberry Shake Citizen Science Station,50.17117117,8.622694957,RASPISHAKE
+R2C63,Raspberry Shake Citizen Science Station,43.63063063,-116.2021205,RASPISHAKE
 R2C71,Raspberry Shake Citizen Science Station,-43.63963964,172.4869078,RASPISHAKE
 R2CA4,Raspberry Shake Citizen Science Station,33.78378378,-118.3625241,RASPISHAKE
 R2CA5,Raspberry Shake Citizen Science Station,34.16216216,134.58988,RASPISHAKE
@@ -417,6 +435,7 @@ R2DE5,Raspberry Shake Citizen Science Station,32.79279279,-96.8205158,RASPISHAKE
 R2DEF,Raspberry Shake Citizen Science Station,34.41441441,-119.7278062,RASPISHAKE
 R2E1D,Raspberry Shake Citizen Science Station,35.6036036,-97.61942396,RASPISHAKE
 R2E2A,Raspberry Shake Citizen Science Station,40,-83.00922036,RASPISHAKE
+R2E51,Raspberry Shake Citizen Science Station,51.45945946,-0.014459625,RASPISHAKE
 R2E8D,Raspberry Shake Citizen Science Station,-3.720720721,36.09412443,RASPISHAKE
 R2E9D,Raspberry Shake Citizen Science Station,27.66666667,85.36816325,RASPISHAKE
 R2ED6,Raspberry Shake Citizen Science Station,36.3963964,-97.86901931,RASPISHAKE
@@ -432,6 +451,7 @@ R2FCF,Raspberry Shake Citizen Science Station,33.98198198,-117.3238553,RASPISHAK
 R2FD9,Raspberry Shake Citizen Science Station,54.00900901,-132.1357447,RASPISHAKE
 R2FF1,Raspberry Shake Citizen Science Station,22.35135135,113.5115028,RASPISHAKE
 R2FF2,Raspberry Shake Citizen Science Station,42.30630631,-83.78077196,RASPISHAKE
+R303A,Raspberry Shake Citizen Science Station,50.10810811,-5.170157098,RASPISHAKE
 R3051,Raspberry Shake Citizen Science Station,-33.84684685,151.1681483,RASPISHAKE
 R3055,Raspberry Shake Citizen Science Station,32.91891892,-117.2253646,RASPISHAKE
 R308F,Raspberry Shake Citizen Science Station,64.10810811,-21.8949415,RASPISHAKE
@@ -451,6 +471,7 @@ R3191,Raspberry Shake Citizen Science Station,43.63063063,-116.191486,RASPISHAKE
 R319F,Raspberry Shake Citizen Science Station,37.55855856,126.9403406,RASPISHAKE
 R31B9,Raspberry Shake Citizen Science Station,16.73873874,-62.22459513,RASPISHAKE
 R31ED,Raspberry Shake Citizen Science Station,37.74774775,-122.4921433,RASPISHAKE
+R325B,Raspberry Shake Citizen Science Station,8.72972973,-82.42525892,RASPISHAKE
 R3286,Raspberry Shake Citizen Science Station,8.72972973,-82.42528103,RASPISHAKE
 R328C,Raspberry Shake Citizen Science Station,-8.702702703,115.2473421,RASPISHAKE
 R329C,Raspberry Shake Citizen Science Station,19.59459459,-154.9295169,RASPISHAKE
@@ -500,7 +521,7 @@ R3769,Raspberry Shake Citizen Science Station,44.72972973,-110.4771967,RASPISHAK
 R376A,Raspberry Shake Citizen Science Station,33.57657658,-101.907505,RASPISHAKE
 R3774,Raspberry Shake Citizen Science Station,47.68468468,7.481793549,RASPISHAKE
 R377A,Raspberry Shake Citizen Science Station,47.9009009,1.881430604,RASPISHAKE
-R3786,Raspberry Shake Citizen Science Station,39.20720721,-76.65473136,RASPISHAKE
+R3786,Raspberry Shake Citizen Science Station,39.20720721,-76.65516794,RASPISHAKE
 R37A5,Raspberry Shake Citizen Science Station,48.42342342,-123.3092842,RASPISHAKE
 R37AF,Raspberry Shake Citizen Science Station,40.8018018,43.83738014,RASPISHAKE
 R37BE,Raspberry Shake Citizen Science Station,28.51351351,-80.63694277,RASPISHAKE
@@ -533,6 +554,7 @@ R3A48,Raspberry Shake Citizen Science Station,41.57657658,-111.8304845,RASPISHAK
 R3A99,Raspberry Shake Citizen Science Station,8.45045045,-82.82746724,RASPISHAKE
 R3AA7,Raspberry Shake Citizen Science Station,36.13513514,-95.97727188,RASPISHAKE
 R3AC4,Raspberry Shake Citizen Science Station,36.1981982,49.21254926,RASPISHAKE
+R3AE1,Raspberry Shake Citizen Science Station,36.93693694,127.0546216,RASPISHAKE
 R3AFA,Raspberry Shake Citizen Science Station,-41.24324324,174.7842919,RASPISHAKE
 R3B01,Raspberry Shake Citizen Science Station,46.94594595,7.443042548,RASPISHAKE
 R3B1E,Raspberry Shake Citizen Science Station,46.52252252,6.573191796,RASPISHAKE
@@ -569,6 +591,7 @@ R3E31,Raspberry Shake Citizen Science Station,38.08108108,-90.47315073,RASPISHAK
 R3E59,Raspberry Shake Citizen Science Station,-0.675675676,119.7291976,RASPISHAKE
 R3E6F,Raspberry Shake Citizen Science Station,44.86486486,-91.91174562,RASPISHAKE
 R3E8F,Raspberry Shake Citizen Science Station,36.01801802,129.3383432,RASPISHAKE
+R3EA4,Raspberry Shake Citizen Science Station,-35.47747748,138.6726948,RASPISHAKE
 R3EA6,Raspberry Shake Citizen Science Station,36.97297297,-122.0008619,RASPISHAKE
 R3EDD,Raspberry Shake Citizen Science Station,46.77477477,10.15610506,RASPISHAKE
 R3EE8,Raspberry Shake Citizen Science Station,25.06306306,121.5752277,RASPISHAKE
@@ -646,6 +669,7 @@ R4639,Raspberry Shake Citizen Science Station,40.93693694,-74.1299168,RASPISHAKE
 R4644,Raspberry Shake Citizen Science Station,42.87387387,0,RASPISHAKE
 R4666,Raspberry Shake Citizen Science Station,42.4954955,-88.2695023,RASPISHAKE
 R46C3,Raspberry Shake Citizen Science Station,-38.68468468,176.0839486,RASPISHAKE
+R470D,Raspberry Shake Citizen Science Station,37.36036036,-121.9920843,RASPISHAKE
 R4715,Raspberry Shake Citizen Science Station,14.26126126,120.9164341,RASPISHAKE
 R4738,Raspberry Shake Citizen Science Station,49.24324324,-122.557717,RASPISHAKE
 R4750,Raspberry Shake Citizen Science Station,45.65765766,14.28351952,RASPISHAKE
@@ -654,6 +678,7 @@ R475A,Raspberry Shake Citizen Science Station,51.48648649,-3.226787639,RASPISHAK
 R47AB,Raspberry Shake Citizen Science Station,38.87387387,-77.2746976,RASPISHAKE
 R47B7,Raspberry Shake Citizen Science Station,51.65765766,6.738525915,RASPISHAKE
 R47BE,Raspberry Shake Citizen Science Station,54.25225225,-0.370143241,RASPISHAKE
+R47DC,Raspberry Shake Citizen Science Station,34.03603604,-117.2592407,RASPISHAKE
 R47E5,Raspberry Shake Citizen Science Station,48.14414414,12.28701856,RASPISHAKE
 R47FB,Raspberry Shake Citizen Science Station,8.774774775,-82.63554123,RASPISHAKE
 R480A,Raspberry Shake Citizen Science Station,50.20720721,-5.307483239,RASPISHAKE
@@ -681,6 +706,7 @@ R4A19,Raspberry Shake Citizen Science Station,14.0990991,-87.20630025,RASPISHAKE
 R4A29,Raspberry Shake Citizen Science Station,37.98198198,-91.5356347,RASPISHAKE
 R4A37,Raspberry Shake Citizen Science Station,52.87387387,-1.074808376,RASPISHAKE
 R4A43,Raspberry Shake Citizen Science Station,48.18018018,11.5660363,RASPISHAKE
+R4A5A,Raspberry Shake Citizen Science Station,20.66666667,-105.2123153,RASPISHAKE
 R4A9F,Raspberry Shake Citizen Science Station,-0.837837838,119.8867762,RASPISHAKE
 R4ABD,Raspberry Shake Citizen Science Station,64.89189189,-147.7811743,RASPISHAKE
 R4ACA,Raspberry Shake Citizen Science Station,8.810810811,-82.61625189,RASPISHAKE
@@ -709,11 +735,12 @@ R4D07,Raspberry Shake Citizen Science Station,42,1.988142051,RASPISHAKE
 R4D20,Raspberry Shake Citizen Science Station,-41.54054054,173.8800843,RASPISHAKE
 R4D65,Raspberry Shake Citizen Science Station,49.21621622,-122.9513762,RASPISHAKE
 R4DA5,Raspberry Shake Citizen Science Station,47.9009009,1.881430604,RASPISHAKE
+R4DB9,Raspberry Shake Citizen Science Station,18.01801802,-66.83860199,RASPISHAKE
 R4DE1,Raspberry Shake Citizen Science Station,30.24324324,-97.88713929,RASPISHAKE
 R4DE2,Raspberry Shake Citizen Science Station,-34.88288288,-56.25491322,RASPISHAKE
 R4DE3,Raspberry Shake Citizen Science Station,18.43243243,-66.05875416,RASPISHAKE
 R4DFA,Raspberry Shake Citizen Science Station,44.06306306,-121.2941945,RASPISHAKE
-R4E13,Raspberry Shake Citizen Science Station,15.33333333,-61.3280325,RASPISHAKE
+R4E13,Raspberry Shake Citizen Science Station,15.57657658,-61.45545894,RASPISHAKE
 R4E40,Raspberry Shake Citizen Science Station,41.31531532,14.11826718,RASPISHAKE
 R4E5D,Raspberry Shake Citizen Science Station,40.72972973,-84.02578061,RASPISHAKE
 R4E74,Raspberry Shake Citizen Science Station,21.92792793,-102.3147185,RASPISHAKE
@@ -722,6 +749,7 @@ R4E7A,Raspberry Shake Citizen Science Station,45.81081081,8.608399651,RASPISHAKE
 R4EB6,Raspberry Shake Citizen Science Station,37.97297297,23.71423269,RASPISHAKE
 R4EC8,Raspberry Shake Citizen Science Station,53.00900901,-2.276311312,RASPISHAKE
 R4F11,Raspberry Shake Citizen Science Station,53.86486486,-122.7591132,RASPISHAKE
+R4F28,Raspberry Shake Citizen Science Station,-9.477477477,147.1532006,RASPISHAKE
 R4F29,Raspberry Shake Citizen Science Station,32.10810811,-111.0235166,RASPISHAKE
 R4F38,Raspberry Shake Citizen Science Station,38.02702703,23.83639133,RASPISHAKE
 R4F51,Raspberry Shake Citizen Science Station,53.05405405,-2.518228931,RASPISHAKE
@@ -736,6 +764,7 @@ R5010,Raspberry Shake Citizen Science Station,30.63963964,-88.93006904,RASPISHAK
 R50AD,Raspberry Shake Citizen Science Station,45.66666667,-111.0350277,RASPISHAKE
 R50BE,Raspberry Shake Citizen Science Station,35.07207207,129.0672289,RASPISHAKE
 R50C3,Raspberry Shake Citizen Science Station,52.64864865,-0.623770094,RASPISHAKE
+R50D4,Raspberry Shake Citizen Science Station,18.22522523,-73.61282146,RASPISHAKE
 R50DB,Raspberry Shake Citizen Science Station,32.30630631,-110.8601999,RASPISHAKE
 R5124,Raspberry Shake Citizen Science Station,47.64864865,-122.30866,RASPISHAKE
 R5146,Raspberry Shake Citizen Science Station,9,-79.54799997,RASPISHAKE
@@ -772,6 +801,7 @@ R5522,Raspberry Shake Citizen Science Station,36.30630631,127.3203133,RASPISHAKE
 R5528,Raspberry Shake Citizen Science Station,55.6036036,13.01415757,RASPISHAKE
 R5575,Raspberry Shake Citizen Science Station,-27.36936937,-70.32606296,RASPISHAKE
 R55E0,Raspberry Shake Citizen Science Station,45,-123.015178,RASPISHAKE
+R55E9,Raspberry Shake Citizen Science Station,45.54054054,-122.6243614,RASPISHAKE
 R55F8,Raspberry Shake Citizen Science Station,25.06306306,121.5751285,RASPISHAKE
 R562A,Raspberry Shake Citizen Science Station,35.1981982,-111.5859186,RASPISHAKE
 R5637,Raspberry Shake Citizen Science Station,43,-7.551760438,RASPISHAKE
@@ -798,6 +828,7 @@ R5871,Raspberry Shake Citizen Science Station,35.08108108,-80.74217876,RASPISHAK
 R58D8,Raspberry Shake Citizen Science Station,39.03603604,-77.06706225,RASPISHAKE
 R58F1,Raspberry Shake Citizen Science Station,48.73873874,-3.360900553,RASPISHAKE
 R5936,Raspberry Shake Citizen Science Station,40.77477477,-96.60466167,RASPISHAKE
+R5954,Raspberry Shake Citizen Science Station,45.12612613,5.823438758,RASPISHAKE
 R595E,Raspberry Shake Citizen Science Station,19.31531532,-72.1236704,RASPISHAKE
 R5966,Raspberry Shake Citizen Science Station,52.3963964,13.03795485,RASPISHAKE
 R596F,Raspberry Shake Citizen Science Station,37.42342342,-122.1387522,RASPISHAKE
@@ -846,6 +877,7 @@ R5F74,Raspberry Shake Citizen Science Station,50.93693694,7.277145275,RASPISHAKE
 R5F75,Raspberry Shake Citizen Science Station,38.35135135,-122.2220274,RASPISHAKE
 R5F94,Raspberry Shake Citizen Science Station,-23.57657658,-46.7409176,RASPISHAKE
 R5FB2,Raspberry Shake Citizen Science Station,50.27927928,3.595098545,RASPISHAKE
+R5FB4,Raspberry Shake Citizen Science Station,42.82882883,-106.2675434,RASPISHAKE
 R5FBE,Raspberry Shake Citizen Science Station,47.33333333,-1.515476137,RASPISHAKE
 R5FCA,Raspberry Shake Citizen Science Station,57.76576577,7.99047374,RASPISHAKE
 R5FDD,Raspberry Shake Citizen Science Station,-41.53153153,173.9473305,RASPISHAKE
@@ -903,6 +935,7 @@ R653E,Raspberry Shake Citizen Science Station,50.32432432,7.211024196,RASPISHAKE
 R655B,Raspberry Shake Citizen Science Station,47.9009009,15.92672006,RASPISHAKE
 R6588,Raspberry Shake Citizen Science Station,42.14414414,-87.84898404,RASPISHAKE
 R658E,Raspberry Shake Citizen Science Station,47.35135135,7.487601339,RASPISHAKE
+R65C9,Raspberry Shake Citizen Science Station,50.09009009,8.229493355,RASPISHAKE
 R65F1,Raspberry Shake Citizen Science Station,63.41441441,10.38869365,RASPISHAKE
 R6610,Raspberry Shake Citizen Science Station,47.63063063,-122.3889562,RASPISHAKE
 R663B,Raspberry Shake Citizen Science Station,47.37837838,15.08774773,RASPISHAKE
@@ -920,11 +953,14 @@ R6780,Raspberry Shake Citizen Science Station,48.40540541,7.34277732,RASPISHAKE
 R6789,Raspberry Shake Citizen Science Station,6.261261261,-75.55934904,RASPISHAKE
 R6795,Raspberry Shake Citizen Science Station,52.26126126,4.96107335,RASPISHAKE
 R67B0,Raspberry Shake Citizen Science Station,49.43243243,2.687554278,RASPISHAKE
+R67E0,Raspberry Shake Citizen Science Station,-4.189189189,152.154575,RASPISHAKE
+R6838,Raspberry Shake Citizen Science Station,48.47747748,-123.3723234,RASPISHAKE
 R6843,Raspberry Shake Citizen Science Station,8.72972973,-82.4252147,RASPISHAKE
 R6852,Raspberry Shake Citizen Science Station,64.12612613,-21.88367241,RASPISHAKE
 R685E,Raspberry Shake Citizen Science Station,46.22522523,7.331497748,RASPISHAKE
 R686A,Raspberry Shake Citizen Science Station,39.47747748,-111.4873226,RASPISHAKE
 R6881,Raspberry Shake Citizen Science Station,43.72072072,5.535377528,RASPISHAKE
+R6885,Raspberry Shake Citizen Science Station,43.56756757,-116.2746207,RASPISHAKE
 R689E,Raspberry Shake Citizen Science Station,33.62162162,-111.7549838,RASPISHAKE
 R6908,Raspberry Shake Citizen Science Station,52.38738739,13.06363727,RASPISHAKE
 R6924,Raspberry Shake Citizen Science Station,53.2972973,5.035085247,RASPISHAKE
@@ -974,6 +1010,7 @@ R6F0D,Raspberry Shake Citizen Science Station,55.67567568,12.57522045,RASPISHAKE
 R6F15,Raspberry Shake Citizen Science Station,28.47747748,-16.39934503,RASPISHAKE
 R6F1F,Raspberry Shake Citizen Science Station,40,-83.01757683,RASPISHAKE
 R6F29,Raspberry Shake Citizen Science Station,37.09009009,128.3442559,RASPISHAKE
+R6F38,Raspberry Shake Citizen Science Station,-31.52252252,-68.55163917,RASPISHAKE
 R6F55,Raspberry Shake Citizen Science Station,50.69369369,3.939431106,RASPISHAKE
 R6F5B,Raspberry Shake Citizen Science Station,47.32432432,-122.2739331,RASPISHAKE
 R6F62,Raspberry Shake Citizen Science Station,44.9009009,-68.6595126,RASPISHAKE
@@ -1058,7 +1095,7 @@ R789E,Raspberry Shake Citizen Science Station,-34.98198198,149.0424365,RASPISHAK
 R78B7,Raspberry Shake Citizen Science Station,4.63963964,-74.0716296,RASPISHAKE
 R78B8,Raspberry Shake Citizen Science Station,50.94594595,5.305148086,RASPISHAKE
 R78EC,Raspberry Shake Citizen Science Station,8.702702703,-82.44630989,RASPISHAKE
-R791F,Raspberry Shake Citizen Science Station,40.97297297,-74.00023188,RASPISHAKE
+R791F,Raspberry Shake Citizen Science Station,53.8018018,-1.556078028,RASPISHAKE
 R796B,Raspberry Shake Citizen Science Station,59.46846847,18.30333844,RASPISHAKE
 R7971,Raspberry Shake Citizen Science Station,47.89189189,1.894682727,RASPISHAKE
 R7988,Raspberry Shake Citizen Science Station,38.46846847,27.06352538,RASPISHAKE
@@ -1096,11 +1133,13 @@ R7D2D,Raspberry Shake Citizen Science Station,47.61261261,-122.1772704,RASPISHAK
 R7D4D,Raspberry Shake Citizen Science Station,-35.43243243,149.0935571,RASPISHAKE
 R7D5E,Raspberry Shake Citizen Science Station,54.56756757,-3.077182412,RASPISHAKE
 R7D6A,Raspberry Shake Citizen Science Station,42.17117117,-85.71072154,RASPISHAKE
+R7D6B,Raspberry Shake Citizen Science Station,25.04504505,121.5630253,RASPISHAKE
 R7D80,Raspberry Shake Citizen Science Station,40.78378378,-77.89822283,RASPISHAKE
 R7DC3,Raspberry Shake Citizen Science Station,46.57657658,-0.956773529,RASPISHAKE
 R7E44,Raspberry Shake Citizen Science Station,23.63963964,58.21167698,RASPISHAKE
 R7E86,Raspberry Shake Citizen Science Station,55.99099099,-87.62290385,RASPISHAKE
 R7ECC,Raspberry Shake Citizen Science Station,8.63963964,-82.76039517,RASPISHAKE
+R7ED6,Raspberry Shake Citizen Science Station,35.44144144,139.6195888,RASPISHAKE
 R7EE4,Raspberry Shake Citizen Science Station,-38.23423423,142.9214873,RASPISHAKE
 R7F4C,Raspberry Shake Citizen Science Station,35.18918919,-97.45725448,RASPISHAKE
 R7F57,Raspberry Shake Citizen Science Station,-12.00900901,-77.04778791,RASPISHAKE
@@ -1112,10 +1151,12 @@ R7FF8,Raspberry Shake Citizen Science Station,-31.27027027,149.1494427,RASPISHAK
 R7FFF,Raspberry Shake Citizen Science Station,38.12612613,-79.05858984,RASPISHAKE
 R804D,Raspberry Shake Citizen Science Station,18.43243243,-66.05875416,RASPISHAKE
 R805D,Raspberry Shake Citizen Science Station,32.32432432,-110.8387329,RASPISHAKE
-R8086,Raspberry Shake Citizen Science Station,53.04504505,-0.779386694,RASPISHAKE
+R8086,Raspberry Shake Citizen Science Station,28.1981982,84.73638808,RASPISHAKE
 R80A8,Raspberry Shake Citizen Science Station,52.3963964,9.819917064,RASPISHAKE
 R80B0,Raspberry Shake Citizen Science Station,36.33333333,-96.79557938,RASPISHAKE
 R80C2,Raspberry Shake Citizen Science Station,19.72072072,-72.23019404,RASPISHAKE
+R80F1,Raspberry Shake Citizen Science Station,8.783783784,-82.42672052,RASPISHAKE
+R8113,Raspberry Shake Citizen Science Station,43.56756757,-116.5924515,RASPISHAKE
 R8117,Raspberry Shake Citizen Science Station,29.38738739,-94.89114134,RASPISHAKE
 R8118,Raspberry Shake Citizen Science Station,52.45945946,-1.93691818,RASPISHAKE
 R814C,Raspberry Shake Citizen Science Station,33.94594595,-83.3723639,RASPISHAKE
@@ -1142,11 +1183,14 @@ R8473,Raspberry Shake Citizen Science Station,12.52252252,-70.01717999,RASPISHAK
 R84AD,Raspberry Shake Citizen Science Station,8.738738739,-82.4344622,RASPISHAKE
 R84BE,Raspberry Shake Citizen Science Station,24.4954955,121.8345132,RASPISHAKE
 R84CF,Raspberry Shake Citizen Science Station,52.3963964,-113.1976134,RASPISHAKE
+R84D3,Raspberry Shake Citizen Science Station,47.36936937,15.08454348,RASPISHAKE
 R84E7,Raspberry Shake Citizen Science Station,47.36936937,8.541173771,RASPISHAKE
 R8504,Raspberry Shake Citizen Science Station,42.42342342,-71.15490478,RASPISHAKE
 R852C,Raspberry Shake Citizen Science Station,48.68468468,8.187677945,RASPISHAKE
 R8550,Raspberry Shake Citizen Science Station,43.86486486,5.823486529,RASPISHAKE
 R8563,Raspberry Shake Citizen Science Station,43.20720721,-77.94578401,RASPISHAKE
+R8577,Raspberry Shake Citizen Science Station,28.18918919,-80.67934483,RASPISHAKE
+R85B0,Raspberry Shake Citizen Science Station,32.75675676,-117.1371267,RASPISHAKE
 R85C3,Raspberry Shake Citizen Science Station,39.53153153,-104.7843991,RASPISHAKE
 R85CD,Raspberry Shake Citizen Science Station,41.81981982,-87.77811183,RASPISHAKE
 R8618,Raspberry Shake Citizen Science Station,28.1981982,84.38905149,RASPISHAKE
@@ -1198,6 +1242,7 @@ R8A3D,Raspberry Shake Citizen Science Station,47.41441441,-122.3274389,RASPISHAK
 R8A47,Raspberry Shake Citizen Science Station,53.30630631,6.573854402,RASPISHAKE
 R8A6C,Raspberry Shake Citizen Science Station,48.20720721,16.37311425,RASPISHAKE
 R8A94,Raspberry Shake Citizen Science Station,29.75675676,-95.70593077,RASPISHAKE
+R8A95,Raspberry Shake Citizen Science Station,55.6036036,13.01415757,RASPISHAKE
 R8A9B,Raspberry Shake Citizen Science Station,61.5045045,-150.8811553,RASPISHAKE
 R8AB0,Raspberry Shake Citizen Science Station,34.30630631,108.9894907,RASPISHAKE
 R8AB6,Raspberry Shake Citizen Science Station,35.22522523,-114.0082226,RASPISHAKE
@@ -1206,6 +1251,7 @@ R8AFF,Raspberry Shake Citizen Science Station,44.8018018,-122.70615,RASPISHAKE
 R8B46,Raspberry Shake Citizen Science Station,43.72972973,-79.39690758,RASPISHAKE
 R8B58,Raspberry Shake Citizen Science Station,33.66666667,-112.0523599,RASPISHAKE
 R8B59,Raspberry Shake Citizen Science Station,-9.234234234,-38.00699645,RASPISHAKE
+R8B61,Raspberry Shake Citizen Science Station,48.45045045,-123.3959545,RASPISHAKE
 R8B7C,Raspberry Shake Citizen Science Station,14.08108108,-87.16089246,RASPISHAKE
 R8B94,Raspberry Shake Citizen Science Station,37.11711712,-121.9522179,RASPISHAKE
 R8BB4,Raspberry Shake Citizen Science Station,19.55855856,-154.8833195,RASPISHAKE
@@ -1239,6 +1285,7 @@ R8EEE,Raspberry Shake Citizen Science Station,-41.0990991,174.8755211,RASPISHAKE
 R8EFE,Raspberry Shake Citizen Science Station,18.64864865,-74.11753098,RASPISHAKE
 R8F35,Raspberry Shake Citizen Science Station,48.54954955,2.204995542,RASPISHAKE
 R8F50,Raspberry Shake Citizen Science Station,43.48648649,-72.41947607,RASPISHAKE
+R8F84,Raspberry Shake Citizen Science Station,37.90990991,-122.2718352,RASPISHAKE
 R8FE8,Raspberry Shake Citizen Science Station,35.08108108,-106.6065444,RASPISHAKE
 R9025,Raspberry Shake Citizen Science Station,52.37837838,13.06203947,RASPISHAKE
 R9039,Raspberry Shake Citizen Science Station,-35.02702703,117.8997873,RASPISHAKE
@@ -1297,6 +1344,7 @@ R9610,Raspberry Shake Citizen Science Station,37.84684685,-122.2640387,RASPISHAK
 R9621,Raspberry Shake Citizen Science Station,51.27027027,0.144020442,RASPISHAKE
 R9627,Raspberry Shake Citizen Science Station,25.03603604,121.6104928,RASPISHAKE
 R9681,Raspberry Shake Citizen Science Station,52.99099099,9.295406384,RASPISHAKE
+R96AB,Raspberry Shake Citizen Science Station,37.86486486,-122.086492,RASPISHAKE
 R96B0,Raspberry Shake Citizen Science Station,52.65765766,4.752849337,RASPISHAKE
 R96DC,Raspberry Shake Citizen Science Station,52.25225225,-113.767315,RASPISHAKE
 R9710,Raspberry Shake Citizen Science Station,45.83783784,16.01039796,RASPISHAKE
@@ -1441,6 +1489,7 @@ RA47D,Raspberry Shake Citizen Science Station,-16.52252252,-68.10970844,RASPISHA
 RA482,Raspberry Shake Citizen Science Station,25.03603604,121.6103936,RASPISHAKE
 RA499,Raspberry Shake Citizen Science Station,37.63063063,-122.416066,RASPISHAKE
 RA49D,Raspberry Shake Citizen Science Station,51.44144144,-2.847423211,RASPISHAKE
+RA4CA,Raspberry Shake Citizen Science Station,39.61261261,19.91780202,RASPISHAKE
 RA4D3,Raspberry Shake Citizen Science Station,41.48648649,2.260995055,RASPISHAKE
 RA4D8,Raspberry Shake Citizen Science Station,40.82882883,-74.1049689,RASPISHAKE
 RA506,Raspberry Shake Citizen Science Station,-41.17117117,174.8260804,RASPISHAKE
@@ -1466,6 +1515,7 @@ RA635,Raspberry Shake Citizen Science Station,39.7027027,-81.2140837,RASPISHAKE
 RA656,Raspberry Shake Citizen Science Station,-33.82882883,151.1167981,RASPISHAKE
 RA659,Raspberry Shake Citizen Science Station,48.72072072,2.485738522,RASPISHAKE
 RA65A,Raspberry Shake Citizen Science Station,33.16216216,-117.3049298,RASPISHAKE
+RA666,Raspberry Shake Citizen Science Station,-21.92792793,148.3538542,RASPISHAKE
 RA694,Raspberry Shake Citizen Science Station,39.23423423,-76.74959632,RASPISHAKE
 RA6AE,Raspberry Shake Citizen Science Station,52.97297297,-122.4944962,RASPISHAKE
 RA6B1,Raspberry Shake Citizen Science Station,53.55855856,9.981063269,RASPISHAKE
@@ -1487,6 +1537,7 @@ RA807,Raspberry Shake Citizen Science Station,41.86486486,-80.11258113,RASPISHAK
 RA822,Raspberry Shake Citizen Science Station,35.55855856,-98.03202879,RASPISHAKE
 RA825,Raspberry Shake Citizen Science Station,48.02702703,-122.5337646,RASPISHAKE
 RA82A,Raspberry Shake Citizen Science Station,5.954954955,116.0870584,RASPISHAKE
+RA82C,Raspberry Shake Citizen Science Station,50.66666667,-120.300143,RASPISHAKE
 RA840,Raspberry Shake Citizen Science Station,35.45045045,138.7533437,RASPISHAKE
 RA866,Raspberry Shake Citizen Science Station,40.79279279,-82.57703326,RASPISHAKE
 RA877,Raspberry Shake Citizen Science Station,40.94594595,15.1973896,RASPISHAKE
@@ -1509,6 +1560,7 @@ RAA21,Raspberry Shake Citizen Science Station,18.52252252,-72.31656731,RASPISHAK
 RAA38,Raspberry Shake Citizen Science Station,45.43243243,-122.8264074,RASPISHAKE
 RAA3C,Raspberry Shake Citizen Science Station,-7.621621622,110.4633087,RASPISHAKE
 RAA60,Raspberry Shake Citizen Science Station,37.21621622,-80.41571219,RASPISHAKE
+RAA7C,Raspberry Shake Citizen Science Station,42.84684685,-70.92719445,RASPISHAKE
 RAA7F,Raspberry Shake Citizen Science Station,37.4954955,-120.8285452,RASPISHAKE
 RAA90,Raspberry Shake Citizen Science Station,-43.11711712,146.9783183,RASPISHAKE
 RAAA6,Raspberry Shake Citizen Science Station,28.05405405,-82.39703125,RASPISHAKE
@@ -1556,6 +1608,7 @@ RAE8E,Raspberry Shake Citizen Science Station,35.48648649,-97.51380573,RASPISHAK
 RAE96,Raspberry Shake Citizen Science Station,23.09009009,-109.6998464,RASPISHAKE
 RAEBE,Raspberry Shake Citizen Science Station,51.33333333,-0.490345469,RASPISHAKE
 RAEC9,Raspberry Shake Citizen Science Station,41.08108108,14.48625292,RASPISHAKE
+RAEE3,Raspberry Shake Citizen Science Station,-41.20720721,174.8216305,RASPISHAKE
 RAEE7,Raspberry Shake Citizen Science Station,42.14414414,-71.24189953,RASPISHAKE
 RAF0B,Raspberry Shake Citizen Science Station,38.1981982,-85.77890304,RASPISHAKE
 RAF16,Raspberry Shake Citizen Science Station,52.64864865,-0.608848793,RASPISHAKE
@@ -1565,6 +1618,7 @@ RAF5D,Raspberry Shake Citizen Science Station,18.45045045,-72.34261576,RASPISHAK
 RAF6B,Raspberry Shake Citizen Science Station,64.85585586,-147.8454527,RASPISHAKE
 RAF99,Raspberry Shake Citizen Science Station,41.68468468,-83.59260116,RASPISHAKE
 RAFB9,Raspberry Shake Citizen Science Station,38.35135135,-122.7718031,RASPISHAKE
+RB00A,Raspberry Shake Citizen Science Station,52.37837838,13.06174364,RASPISHAKE
 RB023,Raspberry Shake Citizen Science Station,49.26126126,-122.7931978,RASPISHAKE
 RB041,Raspberry Shake Citizen Science Station,-41.10810811,174.8859664,RASPISHAKE
 RB077,Raspberry Shake Citizen Science Station,43.21621622,-75.40074493,RASPISHAKE
@@ -1575,6 +1629,7 @@ RB0B5,Raspberry Shake Citizen Science Station,32.77477477,-79.94648772,RASPISHAK
 RB0CA,Raspberry Shake Citizen Science Station,8.099099099,-82.86276447,RASPISHAKE
 RB0D2,Raspberry Shake Citizen Science Station,36.81981982,-121.4134217,RASPISHAKE
 RB0FA,Raspberry Shake Citizen Science Station,47.4954955,-122.3302948,RASPISHAKE
+RB0FB,Raspberry Shake Citizen Science Station,35.17117117,-80.64231126,RASPISHAKE
 RB158,Raspberry Shake Citizen Science Station,20.68468468,-100.4609541,RASPISHAKE
 RB15B,Raspberry Shake Citizen Science Station,55.92792793,-3.200746103,RASPISHAKE
 RB1D6,Raspberry Shake Citizen Science Station,44.84684685,0.254170832,RASPISHAKE
@@ -1584,7 +1639,7 @@ RB27C,Raspberry Shake Citizen Science Station,48.5045045,2.012622974,RASPISHAKE
 RB293,Raspberry Shake Citizen Science Station,35.11711712,-106.593071,RASPISHAKE
 RB29A,Raspberry Shake Citizen Science Station,39.84684685,-105.0687231,RASPISHAKE
 RB2AC,Raspberry Shake Citizen Science Station,33.06306306,-96.35903386,RASPISHAKE
-RB2BC,Raspberry Shake Citizen Science Station,38.68468468,-77.99895383,RASPISHAKE
+RB2BC,Raspberry Shake Citizen Science Station,15.33333333,-61.3280325,RASPISHAKE
 RB2CB,Raspberry Shake Citizen Science Station,38.0990991,-121.2982575,RASPISHAKE
 RB2E8,Raspberry Shake Citizen Science Station,45.36936937,6.347954137,RASPISHAKE
 RB305,Raspberry Shake Citizen Science Station,22.09009009,-159.3248189,RASPISHAKE
@@ -1618,6 +1673,7 @@ RB572,Raspberry Shake Citizen Science Station,49.47747748,11.09396632,RASPISHAKE
 RB574,Raspberry Shake Citizen Science Station,31.41441441,-110.2440888,RASPISHAKE
 RB58F,Raspberry Shake Citizen Science Station,39.1981982,-77.19481087,RASPISHAKE
 RB59E,Raspberry Shake Citizen Science Station,-41.33333333,174.7789117,RASPISHAKE
+RB5BD,Raspberry Shake Citizen Science Station,41.25225225,-95.93407154,RASPISHAKE
 RB5CE,Raspberry Shake Citizen Science Station,42.31531532,-88.25045562,RASPISHAKE
 RB5D4,Raspberry Shake Citizen Science Station,34.07207207,134.3454797,RASPISHAKE
 RB5E8,Raspberry Shake Citizen Science Station,50.11711712,-5.53571742,RASPISHAKE
@@ -1669,6 +1725,7 @@ RBC8D,Raspberry Shake Citizen Science Station,52.41441441,13.13217385,RASPISHAKE
 RBCA6,Raspberry Shake Citizen Science Station,34.15315315,-118.8291175,RASPISHAKE
 RBCA7,Raspberry Shake Citizen Science Station,46.86486486,7.274574663,RASPISHAKE
 RBCC7,Raspberry Shake Citizen Science Station,38.99099099,-76.69290573,RASPISHAKE
+RBCDA,Raspberry Shake Citizen Science Station,-37.82882883,144.9675605,RASPISHAKE
 RBCF7,Raspberry Shake Citizen Science Station,-39.89189189,175.0685567,RASPISHAKE
 RBCFC,Raspberry Shake Citizen Science Station,46.94594595,7.417591162,RASPISHAKE
 RBD11,Raspberry Shake Citizen Science Station,40.06306306,-82.51577839,RASPISHAKE
@@ -1699,6 +1756,7 @@ RBF59,Raspberry Shake Citizen Science Station,52.22522523,4.515768835,RASPISHAKE
 RBF6B,Raspberry Shake Citizen Science Station,49.72972973,-123.1008184,RASPISHAKE
 RBF7E,Raspberry Shake Citizen Science Station,34.1981982,-118.1413397,RASPISHAKE
 RBFB7,Raspberry Shake Citizen Science Station,8.756756757,-82.44019906,RASPISHAKE
+RBFC6,Raspberry Shake Citizen Science Station,44.45945946,26.06823271,RASPISHAKE
 RBFD5,Raspberry Shake Citizen Science Station,48.58558559,2.2473751,RASPISHAKE
 RBFF6,Raspberry Shake Citizen Science Station,19.32432432,-99.17601544,RASPISHAKE
 RC01C,Raspberry Shake Citizen Science Station,45.93693694,13.04590345,RASPISHAKE
@@ -1787,6 +1845,7 @@ RC8AB,Raspberry Shake Citizen Science Station,34.8018018,-87.67889394,RASPISHAKE
 RC93C,Raspberry Shake Citizen Science Station,45.42342342,-122.6727895,RASPISHAKE
 RC951,Raspberry Shake Citizen Science Station,27.97297297,84.26949453,RASPISHAKE
 RC960,Raspberry Shake Citizen Science Station,28.51351351,-80.63701922,RASPISHAKE
+RC96A,Raspberry Shake Citizen Science Station,43.56756757,-116.5924515,RASPISHAKE
 RC98E,Raspberry Shake Citizen Science Station,43.51351351,-116.5346525,RASPISHAKE
 RC98F,Raspberry Shake Citizen Science Station,-37.36936937,143.9003982,RASPISHAKE
 RC994,Raspberry Shake Citizen Science Station,42.54954955,-71.81697209,RASPISHAKE
@@ -1796,6 +1855,7 @@ RC9EB,Raspberry Shake Citizen Science Station,14.11711712,-87.22159879,RASPISHAK
 RCA00,Raspberry Shake Citizen Science Station,49.46846847,5.532087581,RASPISHAKE
 RCA0E,Raspberry Shake Citizen Science Station,33.81081081,-118.1124203,RASPISHAKE
 RCAB1,Raspberry Shake Citizen Science Station,39.23423423,-106.08824,RASPISHAKE
+RCAB8,Raspberry Shake Citizen Science Station,34.20720721,-97.12791897,RASPISHAKE
 RCABD,Raspberry Shake Citizen Science Station,42.37837838,-71.31496978,RASPISHAKE
 RCB03,Raspberry Shake Citizen Science Station,37.7027027,-122.4657383,RASPISHAKE
 RCB10,Raspberry Shake Citizen Science Station,39.11711712,-77.26110595,RASPISHAKE
@@ -1882,6 +1942,7 @@ RD31E,Raspberry Shake Citizen Science Station,7.981981982,-82.02895185,RASPISHAK
 RD33A,Raspberry Shake Citizen Science Station,43.30630631,-0.359050609,RASPISHAKE
 RD349,Raspberry Shake Citizen Science Station,39.73873874,-105.214448,RASPISHAKE
 RD351,Raspberry Shake Citizen Science Station,34.77477477,-96.66170221,RASPISHAKE
+RD372,Raspberry Shake Citizen Science Station,48.1981982,16.36889462,RASPISHAKE
 RD38A,Raspberry Shake Citizen Science Station,8.783783784,-82.63598692,RASPISHAKE
 RD399,Raspberry Shake Citizen Science Station,23.09009009,-109.6998464,RASPISHAKE
 RD3AF,Raspberry Shake Citizen Science Station,40.69369369,1.6398375,RASPISHAKE
@@ -1889,6 +1950,7 @@ RD3B2,Raspberry Shake Citizen Science Station,45.45045045,-122.8174961,RASPISHAK
 RD3EF,Raspberry Shake Citizen Science Station,23.07207207,-109.693239,RASPISHAKE
 RD41A,Raspberry Shake Citizen Science Station,39.5045045,-84.7256889,RASPISHAKE
 RD44E,Raspberry Shake Citizen Science Station,48.7027027,1.9658704,RASPISHAKE
+RD469,Raspberry Shake Citizen Science Station,48.24324324,16.34321735,RASPISHAKE
 RD4A6,Raspberry Shake Citizen Science Station,55.87387387,12.31712446,RASPISHAKE
 RD4B6,Raspberry Shake Citizen Science Station,38.8018018,-94.77993331,RASPISHAKE
 RD4CB,Raspberry Shake Citizen Science Station,5.981981982,116.5638426,RASPISHAKE
@@ -1913,6 +1975,7 @@ RD699,Raspberry Shake Citizen Science Station,48.59459459,7.738317704,RASPISHAKE
 RD6BB,Raspberry Shake Citizen Science Station,39.18918919,-123.2215051,RASPISHAKE
 RD6E1,Raspberry Shake Citizen Science Station,-6.207207207,106.8259705,RASPISHAKE
 RD6FC,Raspberry Shake Citizen Science Station,35.51351351,-97.95380978,RASPISHAKE
+RD70A,Raspberry Shake Citizen Science Station,52.38738739,13.06384443,RASPISHAKE
 RD75B,Raspberry Shake Citizen Science Station,53.51351351,10.03073793,RASPISHAKE
 RD7A0,Raspberry Shake Citizen Science Station,32.84684685,-96.78593324,RASPISHAKE
 RD7C1,Raspberry Shake Citizen Science Station,61.97297297,24.06630248,RASPISHAKE
@@ -1926,6 +1989,7 @@ RD867,Raspberry Shake Citizen Science Station,47.88288288,11.75539896,RASPISHAKE
 RD878,Raspberry Shake Citizen Science Station,41.65765766,-91.52960443,RASPISHAKE
 RD886,Raspberry Shake Citizen Science Station,51.40540541,-3.264443024,RASPISHAKE
 RD897,Raspberry Shake Citizen Science Station,45.34234234,-122.8271554,RASPISHAKE
+RD8B6,Raspberry Shake Citizen Science Station,42.14414414,-76.92812826,RASPISHAKE
 RD8BC,Raspberry Shake Citizen Science Station,-35.3963964,149.1083364,RASPISHAKE
 RD8D1,Raspberry Shake Citizen Science Station,78.21621622,15.62472995,RASPISHAKE
 RD8FC,Raspberry Shake Citizen Science Station,14.64864865,121.0537861,RASPISHAKE
@@ -1968,6 +2032,7 @@ RDD79,Raspberry Shake Citizen Science Station,38.20720721,-85.64150995,RASPISHAK
 RDD84,Raspberry Shake Citizen Science Station,42.81081081,-75.5216901,RASPISHAKE
 RDD8D,Raspberry Shake Citizen Science Station,37.79279279,15.14093873,RASPISHAKE
 RDD97,Raspberry Shake Citizen Science Station,-43.03603604,147.4046132,RASPISHAKE
+RDDB2,Raspberry Shake Citizen Science Station,18.37837838,-67.18543986,RASPISHAKE
 RDDC7,Raspberry Shake Citizen Science Station,-37.76576577,144.9799419,RASPISHAKE
 RDDCD,Raspberry Shake Citizen Science Station,50.17117117,8.622694957,RASPISHAKE
 RDDE1,Raspberry Shake Citizen Science Station,36.45945946,127.525326,RASPISHAKE
@@ -2031,7 +2096,7 @@ RE5D7,Raspberry Shake Citizen Science Station,34.05405405,134.3007415,RASPISHAKE
 RE5DB,Raspberry Shake Citizen Science Station,52.71171171,0.118967434,RASPISHAKE
 RE635,Raspberry Shake Citizen Science Station,-37.78378378,175.3079775,RASPISHAKE
 RE64A,Raspberry Shake Citizen Science Station,33.83783784,-84.57583313,RASPISHAKE
-RE650,Raspberry Shake Citizen Science Station,22.09009009,-159.3248189,RASPISHAKE
+RE650,Raspberry Shake Citizen Science Station,38.95495495,-123.5334545,RASPISHAKE
 RE657,Raspberry Shake Citizen Science Station,33.48648649,-117.1461001,RASPISHAKE
 RE684,Raspberry Shake Citizen Science Station,48.22522523,16.35121589,RASPISHAKE
 RE6A2,Raspberry Shake Citizen Science Station,24.11711712,120.6657356,RASPISHAKE
@@ -2063,6 +2128,7 @@ RE9F9,Raspberry Shake Citizen Science Station,19.77477477,96.1299195,RASPISHAKE
 REA08,Raspberry Shake Citizen Science Station,38.07207207,-122.1660912,RASPISHAKE
 REA0F,Raspberry Shake Citizen Science Station,50.90990991,6.930010097,RASPISHAKE
 REA24,Raspberry Shake Citizen Science Station,47.9009009,1.881434238,RASPISHAKE
+REA26,Raspberry Shake Citizen Science Station,18.44144144,-67.15317602,RASPISHAKE
 REA56,Raspberry Shake Citizen Science Station,48.61261261,7.780806787,RASPISHAKE
 REA57,Raspberry Shake Citizen Science Station,-7.585585586,110.4098547,RASPISHAKE
 REA67,Raspberry Shake Citizen Science Station,-0.198198198,-78.47794987,RASPISHAKE
@@ -2105,7 +2171,7 @@ REFE3,Raspberry Shake Citizen Science Station,37.90990991,122.0552404,RASPISHAKE
 REFF7,Raspberry Shake Citizen Science Station,14.47747748,-90.6195243,RASPISHAKE
 REFFB,Raspberry Shake Citizen Science Station,25.93693694,-80.3301717,RASPISHAKE
 RF04D,Raspberry Shake Citizen Science Station,41.36036036,-75.98492135,RASPISHAKE
-RF055,Raspberry Shake Citizen Science Station,47.04504505,-122.8641386,RASPISHAKE
+RF055,Raspberry Shake Citizen Science Station,48.77477477,-123.3088551,RASPISHAKE
 RF06D,Raspberry Shake Citizen Science Station,35.63063063,-117.6732212,RASPISHAKE
 RF075,Raspberry Shake Citizen Science Station,38,-122.5496109,RASPISHAKE
 RF082,Raspberry Shake Citizen Science Station,42.20720721,-71.10760194,RASPISHAKE
@@ -2135,6 +2201,7 @@ RF356,Raspberry Shake Citizen Science Station,-37.91891892,175.097076,RASPISHAKE
 RF364,Raspberry Shake Citizen Science Station,53.68468468,-6.390048385,RASPISHAKE
 RF39A,Raspberry Shake Citizen Science Station,40,-83.00922036,RASPISHAKE
 RF3FD,Raspberry Shake Citizen Science Station,19.7027027,-155.1032456,RASPISHAKE
+RF477,Raspberry Shake Citizen Science Station,-41.30630631,174.7580409,RASPISHAKE
 RF4A5,Raspberry Shake Citizen Science Station,8.765765766,-82.41431693,RASPISHAKE
 RF4BA,Raspberry Shake Citizen Science Station,37.45045045,-122.1705044,RASPISHAKE
 RF4C1,Raspberry Shake Citizen Science Station,19.3963964,-99.12327944,RASPISHAKE
@@ -2151,6 +2218,7 @@ RF6B5,Raspberry Shake Citizen Science Station,20.59459459,-100.3800949,RASPISHAK
 RF6F5,Raspberry Shake Citizen Science Station,19.3963964,-99.12346222,RASPISHAKE
 RF71E,Raspberry Shake Citizen Science Station,37.36936937,-122.1095076,RASPISHAKE
 RF71F,Raspberry Shake Citizen Science Station,49.26126126,-122.947191,RASPISHAKE
+RF723,Raspberry Shake Citizen Science Station,28.18918919,-80.67934483,RASPISHAKE
 RF724,Raspberry Shake Citizen Science Station,12.13513514,-86.27250741,RASPISHAKE
 RF737,Raspberry Shake Citizen Science Station,-17.53153153,-149.4746425,RASPISHAKE
 RF75C,Raspberry Shake Citizen Science Station,50.31531532,-119.1754836,RASPISHAKE
@@ -2191,13 +2259,16 @@ RFB08,Raspberry Shake Citizen Science Station,51.45945946,-0.101218927,RASPISHAK
 RFB14,Raspberry Shake Citizen Science Station,34.85585586,-97.45473265,RASPISHAKE
 RFB1A,Raspberry Shake Citizen Science Station,37.78378378,15.20790557,RASPISHAKE
 RFB24,Raspberry Shake Citizen Science Station,-41.31531532,174.8135276,RASPISHAKE
+RFB34,Raspberry Shake Citizen Science Station,34.04504505,-117.7901467,RASPISHAKE
 RFB75,Raspberry Shake Citizen Science Station,63.40540541,10.40610452,RASPISHAKE
 RFBA2,Raspberry Shake Citizen Science Station,49.46846847,5.532087581,RASPISHAKE
 RFBE4,Raspberry Shake Citizen Science Station,21.57657658,39.21692875,RASPISHAKE
+RFBFB,Raspberry Shake Citizen Science Station,18.72972973,-99.22926378,RASPISHAKE
 RFC18,Raspberry Shake Citizen Science Station,37.73873874,-121.9315241,RASPISHAKE
 RFCA8,Raspberry Shake Citizen Science Station,52.64864865,-0.638567719,RASPISHAKE
 RFCBE,Raspberry Shake Citizen Science Station,41.20720721,-73.79240657,RASPISHAKE
 RFCF5,Raspberry Shake Citizen Science Station,54.83783784,83.22757283,RASPISHAKE
+RFD01,Raspberry Shake Citizen Science Station,-7.603603604,110.4500944,RASPISHAKE
 RFD2F,Raspberry Shake Citizen Science Station,37.87387387,-122.1060489,RASPISHAKE
 RFD3E,Raspberry Shake Citizen Science Station,22.45945946,114.1466645,RASPISHAKE
 RFD42,Raspberry Shake Citizen Science Station,-33.76576577,151.1048277,RASPISHAKE
@@ -2230,16 +2301,18 @@ RFFB7,Raspberry Shake Citizen Science Station,33.21621622,-97.09390731,RASPISHAK
 RFFD2,Raspberry Shake Citizen Science Station,32.83783784,-96.77840761,RASPISHAKE
 RFFD9,Raspberry Shake Citizen Science Station,47.78378378,7.347425751,RASPISHAKE
 S0320,Raspberry Shake Citizen Science Station,48.40540541,7.34277732,RASPISHAKE
-S0C34,Raspberry Shake Citizen Science Station,64.09009009,-21.85630491,RASPISHAKE
+S0C34,Raspberry Shake Citizen Science Station,38.7027027,-9.213294902,RASPISHAKE
 S0CBB,Raspberry Shake Citizen Science Station,33.91891892,-117.3286699,RASPISHAKE
 S1108,Raspberry Shake Citizen Science Station,48.68468468,2.142718968,RASPISHAKE
 S16F7,Raspberry Shake Citizen Science Station,26.66666667,87.69962465,RASPISHAKE
+S1822,Raspberry Shake Citizen Science Station,35.52252252,24.04240567,RASPISHAKE
 S2625,Raspberry Shake Citizen Science Station,15.24324324,-61.31987935,RASPISHAKE
 S2D97,Raspberry Shake Citizen Science Station,28.06306306,83.25088716,RASPISHAKE
 S4051,Raspberry Shake Citizen Science Station,18.30630631,-66.07594445,RASPISHAKE
 S4458,Raspberry Shake Citizen Science Station,36.79279279,127.1160104,RASPISHAKE
 S49FD,Raspberry Shake Citizen Science Station,20.72972973,-105.0653264,RASPISHAKE
 S4C90,Raspberry Shake Citizen Science Station,43.54054054,-79.65078817,RASPISHAKE
+S4E13,Raspberry Shake Citizen Science Station,15.57657658,-61.45545894,RASPISHAKE
 S5BCC,Raspberry Shake Citizen Science Station,18.43243243,-66.05875416,RASPISHAKE
 S63B4,Raspberry Shake Citizen Science Station,51.26126126,0.05759163,RASPISHAKE
 S6498,Raspberry Shake Citizen Science Station,33.78378378,-118.3604506,RASPISHAKE
@@ -2255,6 +2328,7 @@ S9F83,Raspberry Shake Citizen Science Station,40.45945946,-3.70614914,RASPISHAKE
 SA211,Raspberry Shake Citizen Science Station,-25.69369369,27.25492372,RASPISHAKE
 SA2B5,Raspberry Shake Citizen Science Station,10.44144144,-84.62796407,RASPISHAKE
 SA71B,Raspberry Shake Citizen Science Station,13.72072072,100.7703637,RASPISHAKE
+SB2BC,Raspberry Shake Citizen Science Station,15.33333333,-61.3280325,RASPISHAKE
 SDAB6,Raspberry Shake Citizen Science Station,-23,-46.95893739,RASPISHAKE
 SDD01,Raspberry Shake Citizen Science Station,-3.621621622,-38.7172362,RASPISHAKE
 SE650,Raspberry Shake Citizen Science Station,38.95495495,-123.5334545,RASPISHAKE
